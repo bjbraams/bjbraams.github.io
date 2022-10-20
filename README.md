@@ -7,4 +7,4 @@ The PhD work was done at Max Planck Institute for Plasma Physics, Garching, Germ
 Basic university education in Utrecht (theoretical physics) and Eindhoven (mathematics and computing science).
 I am interested in scientific computing and data analysis with applications in plasma physics, molecular modelling, and atomic physics.
 
-Projects: To follow.
+Projects, packages and pages: To follow.
